@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sentence-transformers
+torch
+spacy
+motor
+pydantic-settings
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+scikit-learn
+pandas
+numpy
+recharts-backend-mock # Not a real package, just a reminder for charts data
+pytest
+httpx
+python-dotenv
